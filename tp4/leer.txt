@@ -1,0 +1,3 @@
+profe, despues de intentarlo un monton de veces y de mil formas no puede lograr correr
+la pagina en el localhost, no pude lograr entender por que no puedo.
+pude abrirlo, pero no donde teniamos que hacerlo
