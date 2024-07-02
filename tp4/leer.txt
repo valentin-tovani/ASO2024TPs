@@ -1,3 +1,2 @@
-profe, despues de intentarlo un monton de veces y de mil formas no puede lograr correr
-la pagina en el localhost, no pude lograr entender por que no puedo.
+profe, no pude hacer correr de ninguna forma la pagina de local host, no puedo lograr entender por que no puedo preginte en el grupo que tenemos entre los compañeros y ninguno me supo dar una solucion para mi pproblema.
 pude abrirlo, pero no donde teniamos que hacerlo
